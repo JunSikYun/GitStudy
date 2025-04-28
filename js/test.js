@@ -1,1 +1,2 @@
-console.log("Test hhh");
+var J = "HEllo";
+console.log(J);
